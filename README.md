@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there o((>ω< ))o
 
-<!--
-**Aminajalouaja/Aminajalouaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Amina Jalouaja**, a passionate web developer who loves mixing code and creativity!  
+I enjoy bringing ideas to life through **beautiful websites**, **3D designs**, and **handmade-inspired projects**.  
+Every line of code is part of my art — thoughtful, detailed, and crafted with love. 💕  
 
-Here are some ideas to get you started:
+-  Currently challenging myself to create as many meaningful and creative projects as I can — every line of code is a step toward mastery and imagination! 
+-  I’m learning **React.js**, , and exploring **3D web development**  
+-  Ask me about **front-end design**, **creative coding**, or **handmade-inspired projects**   
+-  How to reach me: jalouaja.amina@gmail.com  
+-  Fun fact: I believe code can be as beautiful as art 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ *“Crafted with love — every pixel, every idea, every line.”* 
