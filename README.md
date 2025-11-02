@@ -1,8 +1,8 @@
-## Hi there o((>ω< ))o
+## Hello  o((>ω< ))o
 
 I’m **Amina Jalouaja**, a passionate web developer who loves mixing code and creativity!  
 I enjoy bringing ideas to life through **beautiful websites**, **3D designs**, and **handmade-inspired projects**.  
-Every line of code is part of my art — thoughtful, detailed, and crafted with love. 💕  
+Every line of code is part of my art — thoughtful, detailed, and crafted with love.  
 
 -  Currently challenging myself to create as many meaningful and creative projects as I can — every line of code is a step toward mastery and imagination! 
 -  I’m learning **React.js**, , and exploring **3D web development**  
